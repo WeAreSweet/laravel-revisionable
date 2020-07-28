@@ -51,7 +51,7 @@ class User {
 }
 ```
 
-# Prevent persisting model data to the database unless approved
+### Prevent persisting model data to the database unless approved
 
 You can tell your models not to save directly to the model and instead save the data in revisions which can be applied to the model later.
 
